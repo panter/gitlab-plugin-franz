@@ -6,8 +6,8 @@
   "author": "Rogerio Prado de Jesus <rogeriopradoj@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://gitlab.com/users/sign_in",
-    "serviceName": "GitLab",
+    "serviceURL": "https://git.panter.ch/users/sign_in",
+    "serviceName": "GitLab Panter",
     "message": "",
     "popup": [],
     "hasNotificationSound": false,
